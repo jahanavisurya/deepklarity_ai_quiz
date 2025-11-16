@@ -1,0 +1,40 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Turing was a British mathematician and computer scientist...",
+  "key_entities": {
+    "people": [
+      "Alan Turing"
+    ],
+    "organizations": [
+      "Bletchley Park"
+    ],
+    "locations": [
+      "United Kingdom"
+    ]
+  },
+  "sections": [
+    "Early life",
+    "World War II",
+    "Legacy"
+  ],
+  "quiz": [
+    {
+      "question": "Where did Alan Turing study?",
+      "options": [
+        "Harvard",
+        "Cambridge",
+        "Oxford",
+        "Princeton"
+      ],
+      "answer": "Cambridge",
+      "difficulty": "easy",
+      "explanation": "Mentioned in early life."
+    }
+  ],
+  "related_topics": [
+    "Cryptography",
+    "Enigma machine"
+  ]
+}

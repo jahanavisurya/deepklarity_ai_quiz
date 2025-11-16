@@ -1,0 +1,1 @@
+PROMPT: generate 5-8 quiz questions as JSON with fields question, options, answer, difficulty, explanation.
