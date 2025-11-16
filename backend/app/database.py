@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 # ============================================
 
 # Your real PostgreSQL URL with encoded '@'
-DATABASE_URL = "postgresql://postgres:janu%40123@localhost:5432/deepklarity"
+DATABASE_URL = "postgresql://deepklarity_db_user:glV5EmhiSCpnSf278OcewSjghA74kMCA@dpg-d4csef0dl3ps73bmpncg-a.oregon-postgres.render.com/deepklarity_db"
 
 # ============================================
 
